@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3070" started-at="2023-11-07T21:03:06 EST" finished-at="2023-11-07T21:03:09 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3070" started-at="2023-11-07T21:03:06 EST" finished-at="2023-11-07T21:03:09 EST">
+      <class name="com.org.PutTest">
+        <test-method status="PASS" signature="getrequesttyepecode1()[pri:0, instance:com.org.PutTest@76f2b07d]" name="getrequesttyepecode1" duration-ms="390" started-at="2023-11-07T21:03:09 EST" finished-at="2023-11-07T21:03:09 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getrequesttyepecode1 -->
+      </class> <!-- com.org.PutTest -->
+      <class name="com.org.GetTest">
+        <test-method status="PASS" signature="shravs()[pri:0, instance:com.org.GetTest@1f57539]" name="shravs" duration-ms="2229" started-at="2023-11-07T21:03:06 EST" finished-at="2023-11-07T21:03:08 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shravs -->
+      </class> <!-- com.org.GetTest -->
+      <class name="com.org.Demo4Test">
+        <test-method status="PASS" signature="getrequesttyepecode1()[pri:0, instance:com.org.Demo4Test@704a52ec]" name="getrequesttyepecode1" duration-ms="410" started-at="2023-11-07T21:03:09 EST" finished-at="2023-11-07T21:03:09 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getrequesttyepecode1 -->
+      </class> <!-- com.org.Demo4Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
